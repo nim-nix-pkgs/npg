@@ -11,6 +11,7 @@
   inputs.src-npg-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-npg-0_2_0.owner = "rustomax";
   inputs.src-npg-0_2_0.repo  = "npg";
+  inputs.src-npg-0_2_0.dir   = "";
   inputs.src-npg-0_2_0.type  = "github";
   
   inputs."passgen".owner = "nim-nix-pkgs";
