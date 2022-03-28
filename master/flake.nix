@@ -11,7 +11,6 @@
   inputs.src-npg-master.ref   = "refs/heads/master";
   inputs.src-npg-master.owner = "rustomax";
   inputs.src-npg-master.repo  = "npg";
-  inputs.src-npg-master.dir   = "";
   inputs.src-npg-master.type  = "github";
   
   inputs."passgen".owner = "nim-nix-pkgs";
